@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MiLaNPL
+- 👋 Hi, I’m @MilanKaliszewski
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python, c++
 - 📫 How to reach me milankaliszewski@gmail.com
